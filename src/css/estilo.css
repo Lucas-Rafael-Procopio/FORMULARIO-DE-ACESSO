@@ -1,15 +1,15 @@
-/* reset.css */
-/* Adicione seu reset CSS aqui */
 
-/* estilo.css */
 body {
     font-family: 'Outfit', sans-serif;
     margin: 0;
     padding: 0;
-    background: #f0f0f0; /* Plano de fundo */
+    background: #000000; /* Plano de fundo */
+    background-repeat: no-repeat;
     color: rgb(255, 255, 255);
     position: relative;
     overflow: hidden;
+    justify-content: center;
+    height: 100vh;
 }
 
 header {
@@ -108,6 +108,7 @@ button:hover {
     border-radius: 4px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     z-index: 20;
+    
 }
 
 #backgroundSlider {
