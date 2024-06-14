@@ -75,12 +75,12 @@ button:hover {
     background: #45a049;
 }
 
-.links a, .soon-message .icons img {
+.links a, .soon-message .icon img {
     margin: 0.5rem;
     transition: transform 0.3s ease;
 }
 
-.links a:hover, .soon-message .icons img:hover {
+.links a:hover, .soon-message .icon img:hover {
     transform: scale(1.1);
 }
 
